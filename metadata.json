@@ -1,0 +1,8 @@
+{
+  "name": "Crypto Signal KombohPulse",
+  "description": "Professional, automated crypto trading signals platform featuring real-time analytics, market performance tracking, and secure subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
